@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'OpenSans-Regular';
+  src: url('../fonts/openSans/OpenSans-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'OpenSans-SemiBold';
+  src: url('../fonts/openSans/OpenSans-SemiBold.ttf');
+}
+
+@font-face {
+  font-family: 'OpenSans-Bold';
+  src: url('../fonts/openSans/OpenSans-Bold.ttf');
+}
+
+@font-face {
+  font-family: 'PlayfairDisplaySc-Regular';
+  src: url('../fonts/display/PlayfairDisplaySC-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'PlayfairDisplaySc-Bold';
+  src: url('../fonts/display/PlayfairDisplaySC-Bold.ttf');
+}
